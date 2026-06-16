@@ -14,7 +14,7 @@ from greetings import greet
 print(greet("Sam"))  # Hello, Sam!
 ```
 
-## Runing the tests
+## Running the tests
 
 ```bash
 python -m pytest
